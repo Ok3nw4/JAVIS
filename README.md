@@ -37,11 +37,9 @@ Here are some ideas to get you started:
 - ![Profile views](https://gpvc.arturio.dev/Ok3nw4)
 - [![GitHub followers](https://img.shields.io/github/followers/Naim75o.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Ok3nw4?tab=followers)
 
-![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
-
 > GITHUB STATES :
 
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/Ok3nw4"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ok3nw4&theme=merko)
 
