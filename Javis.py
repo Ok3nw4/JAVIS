@@ -7,6 +7,8 @@ try:os.system('mkdir /sdcard/OKENWA-DATA')
 except:pass
 try:os.system('mkdir /sdcard/OKENWA-DATA/OK')
 except:pass
+try:os.system('mkdir /sdcard/OKENWA-DATA/CP')
+except:pass
 try:os.system('mkdir /sdcard/OKENWA-DATA/TAP-A2F')
 except:pass
 try:os.system('touch .prox.txt')
