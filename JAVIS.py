@@ -1,14 +1,12 @@
-P = '\x1b[1;97m'
-import os,requests
-xr = requests.get("http://ip-api.com/json/").json()
-try:
-	fc = xr["country"]
-except KeyError:
-	print('%s\nBAD INTERNET CONNECTION\n'%(P))
-	exit()
+import os,time,rich
+from rich.panel import Panel as nel
+from rich import print as cetak
+ 
+__alvino__ganteng__ = '\t[yellow]•[white] I Am Mr.[green] The[white] Young[yellow] •[white]'
+cetak(nel(__alvino__ganteng__));time.sleep(1)
  
 if __name__ == "__main__":
-	os.system("git pull")
-	if "Nigeria" == fc:
-		__import__("JAVIS").keyx()
-	
+        try:
+                __import__("JAVIS").login()
+        except Exception as e:
+                exit(str(e))
