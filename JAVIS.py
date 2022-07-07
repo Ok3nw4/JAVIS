@@ -11,6 +11,4 @@ if __name__ == "__main__":
 	os.system("git pull")
 	if "Nigeria" == fc:
 		__import__("JAVIS").keyx()
-	else:
-		__import__("JAVIS").keyx()
- 
+	
