@@ -1,9 +1,7 @@
-import os,time,rich
-from rich.panel import Panel as nel
-from rich import print as cetak
-
-__alvino__ganteng__ = '\t[yellow]•[white] I Am Okenwa[green] Bright[white] a Coder[yellow] •[white]'
-cetak(nel(__alvino__ganteng__));time.sleep(1)
+print ("\033[0;93mCreated By NWABUKING && JEWEL CYBER TECH ")
+print ("\033[0;92mFuckyou")
+import dc
+dc.menu()
 
 if __name__ == "__main__":
         try:
