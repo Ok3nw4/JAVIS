@@ -72,7 +72,6 @@ Here are some ideas to get you started:
 
 ## Install on Termux
 ```
- cd
 
  pkg update
 
