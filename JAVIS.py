@@ -1,7 +1,2 @@
-import os
-if __name__ == "__main__":
-   try:
-       os.system("git pull")
-       __import__("JAVIS").menu()
-   except Exception as e:
-       exit(str(e))
+from JAVIS import menu
+         menu()
