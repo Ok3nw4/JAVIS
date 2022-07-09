@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
  cd JAVIS
 
- python JAVIS.py
+ python Javis.py
 ```
 
  ❤️ Thanks For Using My Tools ❤️
